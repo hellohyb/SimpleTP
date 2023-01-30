@@ -1,0 +1,37 @@
+{
+  "id": "3791368",
+  "name": "list",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "673799",
+      "name": "首页",
+      "font_class": "home",
+      "unicode": "e6cb",
+      "unicode_decimal": 59083
+    },
+    {
+      "icon_id": "807967",
+      "name": "统计",
+      "font_class": "count",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "1305472",
+      "name": "任务",
+      "font_class": "task",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "3456457",
+      "name": "设置",
+      "font_class": "set",
+      "unicode": "e70f",
+      "unicode_decimal": 59151
+    }
+  ]
+}
